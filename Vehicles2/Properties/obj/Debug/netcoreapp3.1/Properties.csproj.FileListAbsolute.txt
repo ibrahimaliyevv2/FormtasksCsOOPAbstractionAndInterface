@@ -1,0 +1,10 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\obj\Debug\netcoreapp3.1\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Properties\obj\Debug\netcoreapp3.1\Properties.pdb

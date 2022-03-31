@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Vehicles2/1.0.0": {
+        "dependencies": {
+          "Properties": "1.0.0"
+        },
+        "runtime": {
+          "Vehicles2.dll": {}
+        }
+      },
+      "Properties/1.0.0": {
+        "runtime": {
+          "Properties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vehicles2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Properties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

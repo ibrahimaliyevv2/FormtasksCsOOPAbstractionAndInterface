@@ -1,0 +1,17 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\bin\Debug\netcoreapp3.1\Vehicles2.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\bin\Debug\netcoreapp3.1\Vehicles2.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\bin\Debug\netcoreapp3.1\Vehicles2.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\bin\Debug\netcoreapp3.1\Vehicles2.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\bin\Debug\netcoreapp3.1\Vehicles2.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\bin\Debug\netcoreapp3.1\Vehicles2.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.csproj.CopyComplete
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPAbstractionAndInterface\Vehicles2\Vehicles2\obj\Debug\netcoreapp3.1\Vehicles2.genruntimeconfig.cache
