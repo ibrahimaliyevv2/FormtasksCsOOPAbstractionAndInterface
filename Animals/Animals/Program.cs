@@ -16,13 +16,23 @@ namespace Animals
             farm.AddAnimal(horse1);
 
             Sheep sheep1 = new Sheep();
-            sheep1.Name = "at1";
+            sheep1.Name = "qoyun1";
             sheep1.Gender = true;
             sheep1.Age = 10;
             sheep1.Type = "Merinos";
             farm.AddAnimal(sheep1);
 
-            farm.GetAnimalsByName("at1");
+            foreach (var item in farm.GetAnimalsByName("at1"))
+            {
+                Console.WriteLine($"Name: {item.Name}, Gender: {item.Gender}, Age: {item.Age}");
+            }
+
+            Console.WriteLine("===========================");
+
+            foreach (var item in farm.GetAnimalsByAge(2, 18))
+            {
+                Console.WriteLine($"Name: {item.Name}, Gender: {item.Gender}, Age: {item.Age}");
+            }
         }
     }
 }

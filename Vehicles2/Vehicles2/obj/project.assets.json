@@ -27,39 +27,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ibrahimaliyevv2\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/ibrahimaliyevv/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrahimaliyevv2\\source\\repos\\FormtasksCsOOPAbstractionAndInterface\\Vehicles2\\Vehicles2\\Vehicles2.csproj",
+      "projectUniqueName": "/Users/ibrahimaliyevv/Projects/FormtasksCsOOPAbstractionAndInterface/Vehicles2/Vehicles2/Vehicles2.csproj",
       "projectName": "Vehicles2",
-      "projectPath": "C:\\Users\\ibrahimaliyevv2\\source\\repos\\FormtasksCsOOPAbstractionAndInterface\\Vehicles2\\Vehicles2\\Vehicles2.csproj",
-      "packagesPath": "C:\\Users\\ibrahimaliyevv2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrahimaliyevv2\\source\\repos\\FormtasksCsOOPAbstractionAndInterface\\Vehicles2\\Vehicles2\\obj\\",
+      "projectPath": "/Users/ibrahimaliyevv/Projects/FormtasksCsOOPAbstractionAndInterface/Vehicles2/Vehicles2/Vehicles2.csproj",
+      "packagesPath": "/Users/ibrahimaliyevv/.nuget/packages/",
+      "outputPath": "/Users/ibrahimaliyevv/Projects/FormtasksCsOOPAbstractionAndInterface/Vehicles2/Vehicles2/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ibrahimaliyevv2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ibrahimaliyevv/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ibrahimaliyevv2\\source\\repos\\FormtasksCsOOPAbstractionAndInterface\\Vehicles2\\Properties\\Properties.csproj": {
-              "projectPath": "C:\\Users\\ibrahimaliyevv2\\source\\repos\\FormtasksCsOOPAbstractionAndInterface\\Vehicles2\\Properties\\Properties.csproj"
+            "/Users/ibrahimaliyevv/Projects/FormtasksCsOOPAbstractionAndInterface/Vehicles2/Properties/Properties.csproj": {
+              "projectPath": "/Users/ibrahimaliyevv/Projects/FormtasksCsOOPAbstractionAndInterface/Vehicles2/Properties/Properties.csproj"
             }
           }
         }
@@ -88,7 +81,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
       }
     }
   }

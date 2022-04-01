@@ -6,17 +6,51 @@ namespace Models
 {
     public class Employee:Person
     {
-        public Employee(string name, string surname, byte age, double salaryPerHour, int workingHour):base(name, surname, age)
+        public Employee(string name, string surname, byte age, int workingHour, int salaryOfHour) : base(name, surname, age)
         {
-            this.SalaryPerHour = salaryPerHour;
             this.WorkingHour = workingHour;
+            this.SalaryOfHour = salaryOfHour;
+        }
+        private int _salaryOfHour;
+        private int _workingHour;
+        public int SalaryOfHour
+        {
+            get { return _salaryOfHour; }
+            set
+            {
+                if (Age >= 18)
+                {
+                    if (WorkingHour * value * 30 > 250)
+                    {
+                        _salaryOfHour = value;
+                    }
+                }
+            }
         }
 
-        public double SalaryPerHour { get; set; }
-        public int WorkingHour { get; set; }
-        public double CalculateSalary()
+        public int WorkingHour
         {
-            return 30 * WorkingHour * SalaryPerHour;
+            get { return _workingHour; }
+            set
+            {
+                if(Age>=18){
+                    if (value <= 8)
+                    {
+                        _workingHour = value;
+                    }
+                }
+            }
+        }
+        public void CalculateSalary()
+        {
+            if (Age >= 18)
+            {
+                Console.WriteLine($"Salary: {SalaryOfHour * WorkingHour * 30}");
+            }
+            else
+            {
+                Console.WriteLine("People Little than age 18 can't work!");
+            }
         }
     }
 }

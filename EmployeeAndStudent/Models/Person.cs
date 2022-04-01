@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Models
 {
-    abstract class Person
+    public abstract class Person
     {
         public Person(string name, string surname, byte age)
         {
